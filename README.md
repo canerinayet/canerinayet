@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 Backend ve Frontend olmak üzere çalıştığım projeler mevcut.
 <a href="https://github.com/canerinayet/github-readme-stats">
   <img width=450 height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=canerinayet&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
