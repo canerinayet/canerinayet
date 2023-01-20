@@ -5,7 +5,7 @@
 <a target="_blank" href="https://github.com/canerinayet">
   <img alt="Sergey's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=canerinayet&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true&hide_rank=true" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugogacia360)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/canerinayet/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canerinayet&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
